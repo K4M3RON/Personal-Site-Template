@@ -75,8 +75,7 @@ sections:
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
-        url: >-
-          /images/png-transparent-inspired-energy-plc-lon-inse-company-price-inspired-angle-company-text.png
+        url: /images/Inspired-PLC-Logo.png
         altText: Logo three
         caption: Logo three
       - type: ImageBlock
