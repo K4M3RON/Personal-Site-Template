@@ -207,12 +207,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: TextSection
-    variant: variant-a
-    subtitle: 'Contact:'
-    colors: colors-f
-    text: |
-      <Cameron@kram.work>
   - type: DividerSection
     styles:
       self:
@@ -225,6 +219,12 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
+  - type: TextSection
+    variant: variant-a
+    subtitle: 'Contact:'
+    colors: colors-f
+    text: |
+      <Cameron@kram.work>
   - type: FeaturedItemsSection
     colors: colors-f
     items:
