@@ -71,7 +71,7 @@ sections:
         altText: Beaverbrooks logo
         caption: Beaverbrooks logo
       - type: ImageBlock
-        url: /images/logo2.svg
+        url: /images/pad-logo.png
         altText: Logo two
         caption: Logo two
       - type: ImageBlock
