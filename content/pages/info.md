@@ -159,7 +159,7 @@ sections:
         altText: LinkedIn btn
         url: 'https://www.linkedin.com/in/cameron-a-b94a55298/'
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         style: primary
         elementId: ''
