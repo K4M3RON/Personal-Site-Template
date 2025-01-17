@@ -83,7 +83,7 @@ sections:
         altText: Ribby Hall Logo
         caption: Ribby Hall Logo
         elementId: ''
-    spacing: 13
+    spacing: 36
     columns: 5
     aspectRatio: auto
     showCaption: false
