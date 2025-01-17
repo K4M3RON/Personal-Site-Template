@@ -67,7 +67,7 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/spindlestsq-beaverbrooks-logo.png
+        url: /images/Beaverbrooks-logo.jpg
         altText: Beaverbrooks logo
         caption: Beaverbrooks logo
       - type: ImageBlock
