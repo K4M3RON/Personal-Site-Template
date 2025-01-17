@@ -246,11 +246,8 @@ sections:
           **2015**
 
           *   System Analyst @ Inspired Energy plc.
-          *
               Initially joining Inspired Energy for work experience while attending Hodgson
               Academy
-
-
 
         styles:
           self:
