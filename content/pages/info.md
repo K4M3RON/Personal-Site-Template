@@ -127,6 +127,7 @@ sections:
           self:
             textAlign: left
         title: test
+        subtitle: test
       - type: FeaturedItem
         actions: []
         styles:
