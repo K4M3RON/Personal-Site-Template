@@ -81,7 +81,7 @@ sections:
       - type: ImageBlock
         url: /images/logo-rhv-retina.png
         altText: Ribby Hall Logo
-        caption: Caption of the image
+        caption: Ribby Hall Logo
         elementId: ''
     spacing: 3
     columns: 5
