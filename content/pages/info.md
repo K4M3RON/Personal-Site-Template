@@ -150,7 +150,7 @@ sections:
         altText: GitHub
         url: '/https://github.com/K4M3RON'
         showIcon: true
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
