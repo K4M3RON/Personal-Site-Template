@@ -77,7 +77,7 @@ sections:
       - type: ImageBlock
         url: /images/pad-logo.png
         altText: PAD CL logo
-        caption: Logo two
+        caption: PAD CL logo
       - type: ImageBlock
         url: /images/logo-rhv-retina.png
         altText: altText of the image
