@@ -79,10 +79,6 @@ sections:
         altText: Inspired Energy logo
         caption: Inspired Energy logo
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
         url: /images/logo5.svg
         altText: Logo five
         caption: Logo five
