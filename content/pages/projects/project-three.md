@@ -14,3 +14,4 @@ media:
   url: /images/bg3.jpg
   altText: Project image
 ---
+Project coming soon
