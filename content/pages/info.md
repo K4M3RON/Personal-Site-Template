@@ -71,13 +71,13 @@ sections:
         altText: Beaverbrooks logo
         caption: Beaverbrooks logo
       - type: ImageBlock
-        url: /images/pad-logo.png
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
         url: /images/Inspired-PLC-Logo.png
         altText: Inspired Energy logo
         caption: Inspired Energy logo
+      - type: ImageBlock
+        url: /images/pad-logo.png
+        altText: Logo two
+        caption: Logo two
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
