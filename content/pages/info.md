@@ -275,14 +275,13 @@ sections:
           **2018-2023**
 
           *   Keele University,
+
               Bsc: Computer Science, 1st class honours.
               Dissertation on Machine Learning for Large Social Media Datasets
 
-
-
           **2016-2018**
 
-          *   The Blackpool Sixth Form College - 
+          *   The Blackpool Sixth Form College -
 
           **2011**
 
