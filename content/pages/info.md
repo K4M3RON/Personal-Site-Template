@@ -14,9 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ## Motivated computer enjoyer. 
+      ## Motivated computer enjoyer.
 
-      ## Cybersecurity learner. 
+      ## Software Developer.
+
+      ## Cybersecurity learner.
 
       ## Cat owner.
 
