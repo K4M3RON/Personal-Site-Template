@@ -147,7 +147,7 @@ sections:
     actions:
       - type: Button
         label: GitHub
-        altText: ''
+        altText: GitHub
         url: '/https://github.com/K4M3RON'
         showIcon: false
         icon: arrowRight
