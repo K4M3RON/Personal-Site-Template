@@ -13,15 +13,19 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: |+
+      ## Motivated computer enjoyer.
+
+      ## Software Developer.
+
+      ## Cybersecurity learner.
+
+      ## Cat owner.
+
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      url: /images/Image (37).jpg
+      altText: ''
     styles:
       self:
         height: auto
@@ -60,29 +64,26 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I''ve worked with these people:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
+        url: /images/Beaverbrooks-logo.jpg
+        altText: Beaverbrooks logo
+        caption: Beaverbrooks logo
       - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
+        url: /images/pad-logo.png
+        altText: PAD CL logo
+        caption: PAD CL logo
       - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
+        url: /images/Inspired-PLC-Logo.png
+        altText: Inspired Energy logo
+        caption: Inspired Energy logo
       - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
+        url: /images/logo-rhv-retina.png
+        altText: Ribby Hall Logo
+        caption: Ribby Hall Logo
+        elementId: ''
+    spacing: 30
     columns: 5
     aspectRatio: auto
     showCaption: false
@@ -119,55 +120,7 @@ sections:
         borderStyle: solid
   - type: FeaturedItemsSection
     colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
+    items: []
     columns: 3
     spacingX: 120
     spacingY: 0
@@ -190,6 +143,26 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    title: ''
+    actions:
+      - type: Button
+        label: GitHub
+        altText: GitHub
+        url: '/https://github.com/K4M3RON'
+        showIcon: true
+        icon: github
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
+        label: Linked
+        altText: LinkedIn btn
+        url: 'https://www.linkedin.com/in/cameron-a-b94a55298/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: DividerSection
     styles:
       self:
@@ -207,21 +180,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: WEB 1/2/3
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Python
       - type: Label
-        label: Next.js
+        label: Cybersecurity
       - type: Label
-        label: Netlify
+        label: Japanese
       - type: Label
-        label: Pancakes
+        label: Machine Learning
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Linux
   - type: DividerSection
     styles:
       self:
@@ -239,7 +212,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <Cameron@kram.work>
   - type: DividerSection
     styles:
       self:

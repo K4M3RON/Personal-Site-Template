@@ -5,7 +5,7 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Cameron @kram",
         "isTitleVisible": true,
         "primaryLinks": [
             {
@@ -36,7 +36,7 @@
                 "type": "Social",
                 "altText": "GitHub",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
+                "url": "https://github.com/K4M3RON",
                 "icon": "github"
             }
         ],
@@ -58,7 +58,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "mailto:thisismyemail.@myemail.me",
+                "url": "mailto:cameron@kram.work",
                 "altText": ""
             },
             {
@@ -70,25 +70,33 @@
             {
                 "type": "Link",
                 "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
+                "url": "https://github.com/K4M3RON",
+                "altText": "Netlify templates",
+                "showIcon": true,
+                "icon": "github",
+                "iconPosition": "left"
             }
         ],
         "contacts": {
             "type": "ContactBlock",
             "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "My phone number",
-            "email": "thisismyemail.@myemail.me",
-            "emailAltText": "My email",
-            "address": "312 Lovely Street, Brooklyn, NY, 123456",
+            "phoneNumber": "",
+            "phoneAltText": "",
+            "email": "Cameron@kram.work",
+            "emailAltText": "Cameron@kram.work",
+            "address": "",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "",
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
