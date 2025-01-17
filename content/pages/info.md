@@ -126,6 +126,7 @@ sections:
           - type: Link
             label: GitHub
             url: 'https://twitter.com/'
+            altText: GitHub
         styles:
           self:
             textAlign: left
