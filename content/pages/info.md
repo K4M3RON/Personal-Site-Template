@@ -154,6 +154,14 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: 'https://github.com/K4M3RON'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     styles:
       self:
