@@ -135,6 +135,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/cameron-a-b94a55298/'
+            altText: LinkedIn
         styles:
           self:
             textAlign: left
