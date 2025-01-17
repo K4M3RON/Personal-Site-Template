@@ -283,9 +283,11 @@ sections:
 
           *   The Blackpool Sixth Form College,
 
-              A-Levels: Computer Science, Physics and Mathematics.
               Graduated with A-Levels in: Physics, Maths (A/AS)
               and Computer Science.
+              Physics Golden Crest - Project on Quantum Computation: Security
+              and
+               Cryptography, BB84 protocol.
 
           **2011**
 
