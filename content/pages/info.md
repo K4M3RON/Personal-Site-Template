@@ -186,7 +186,7 @@ sections:
       - type: Label
         label: Python
       - type: Label
-        label: Next.js
+        label: Cybersecurity
       - type: Label
         label: Netlify
       - type: Label
