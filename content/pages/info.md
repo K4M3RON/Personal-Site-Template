@@ -122,7 +122,16 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: 'https://github.com/K4M3RON'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         styles:
           self:
             textAlign: left
