@@ -78,10 +78,6 @@ sections:
         url: /images/Inspired-PLC-Logo.png
         altText: Inspired Energy logo
         caption: Inspired Energy logo
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
     spacing: 3
     columns: 5
     aspectRatio: auto
