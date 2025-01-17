@@ -244,11 +244,10 @@ sections:
               the showroom. Additionally, I was responsible for delivering and installing furniture in
               customers' homes
 
-
-
           ### **2017-2018**
 
           *   Customer Service Representative @ Papa Johns
+              I made pizzas
 
           ### **2015**
 
