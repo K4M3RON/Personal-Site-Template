@@ -72,7 +72,7 @@
                 "label": "GitHub",
                 "url": "https://github.com/K4M3RON",
                 "altText": "Netlify templates",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "contacts": {
