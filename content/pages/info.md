@@ -271,18 +271,23 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2018-2023**
 
-          * ba computer sciense at a semi fancy school
+          *   Keele University,
+              Bsc: Computer Science, 1st class honours.
+              Dissertation on Machine Learning for Large Social Media Datasets
 
-          **2014**
 
-          * react certificate somewhere
+
+          **2016-2018**
+
+          *   The Blackpool Sixth Form College - 
 
           **2011**
 
-          * my highschool
+          *   my highschool
+
         styles:
           self:
             textAlign: left
