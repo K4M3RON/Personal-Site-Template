@@ -69,7 +69,7 @@ sections:
       - type: ImageBlock
         url: /images/logo1.svg
         altText: Beaverbrooks logo
-        caption: Logo one
+        caption: Beaverbrooks logo
       - type: ImageBlock
         url: /images/logo2.svg
         altText: Logo two
