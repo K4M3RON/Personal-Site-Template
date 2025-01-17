@@ -194,7 +194,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: Linux
   - type: DividerSection
     styles:
       self:
