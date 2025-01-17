@@ -285,9 +285,10 @@ sections:
 
               Graduated with A-Levels in: Physics, Maths (A/AS)
               and Computer Science.
+
               Physics Golden Crest - Project on Quantum Computation: Security
               and
-               Cryptography, BB84 protocol.
+              Cryptography, BB84 protocol.
 
           **2011**
 
