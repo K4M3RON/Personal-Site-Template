@@ -126,6 +126,7 @@ sections:
         styles:
           self:
             textAlign: left
+        title: test
       - type: FeaturedItem
         actions: []
         styles:
