@@ -80,7 +80,7 @@ sections:
         caption: PAD CL logo
       - type: ImageBlock
         url: /images/logo-rhv-retina.png
-        altText: altText of the image
+        altText: Ribby Hall Logo
         caption: Caption of the image
         elementId: ''
     spacing: 3
