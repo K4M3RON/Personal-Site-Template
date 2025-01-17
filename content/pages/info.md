@@ -251,12 +251,7 @@ sections:
               Academy.
 
               I was invited to return as an apprentice during the summer, during my time there, I
-              assisted in setting up and designing a new website for the in-house cafe and gym,
-              demonstrating my versatility and enthusiasm for working with a team.
-
-              I also assisted in installing Windows 10 on 30 systems using PXE
-
-
+              assisted in setting up and designing a new website for the in-house cafe and gym.
 
 
 
