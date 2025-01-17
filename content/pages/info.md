@@ -188,7 +188,7 @@ sections:
       - type: Label
         label: Cybersecurity
       - type: Label
-        label: Netlify
+        label: Japanese
       - type: Label
         label: Pancakes
       - type: Label
