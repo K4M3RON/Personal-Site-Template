@@ -7,7 +7,7 @@ client: ODE Driver
 description: ODE Driver
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-01-17 120609.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
