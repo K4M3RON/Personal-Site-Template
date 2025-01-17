@@ -124,7 +124,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Twitter
+            label: GitHub
             url: 'https://twitter.com/'
         styles:
           self:
