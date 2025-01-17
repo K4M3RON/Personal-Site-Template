@@ -78,7 +78,7 @@ sections:
         url: /images/Inspired-PLC-Logo.png
         altText: Inspired Energy logo
         caption: Inspired Energy logo
-    spacing: 0
+    spacing: 4
     columns: 5
     aspectRatio: auto
     showCaption: false
