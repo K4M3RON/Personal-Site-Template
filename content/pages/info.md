@@ -235,6 +235,7 @@ sections:
 
           *   Information Technology Support Analyst @ Beaverbrooks
 
+
           ### **2017-2023**
 
           *   IT Support and Customer Service @ PAD
