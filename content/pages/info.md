@@ -80,7 +80,7 @@ sections:
         caption: Inspired Energy logo
     spacing: 3
     columns: 5
-    aspectRatio: ''
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
