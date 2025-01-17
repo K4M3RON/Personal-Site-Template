@@ -81,7 +81,7 @@
             "type": "ContactBlock",
             "title": "Contact details",
             "phoneNumber": "",
-            "phoneAltText": "My phone number",
+            "phoneAltText": "",
             "email": "Cameron@kram.work",
             "emailAltText": "Cameron@kram.work",
             "address": "",
