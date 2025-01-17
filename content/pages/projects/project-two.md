@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2025-01-17 120609.png
   altText: Project image
 ---
 3D Rigid body Physics driving project made with Open Dynamics Engine and C++. 
