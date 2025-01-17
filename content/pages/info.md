@@ -239,6 +239,13 @@ sections:
 
           *   IT Support and Customer Service @ PAD
 
+              Managed the company's website
+              and created promotional material to provide product information to clients visiting
+              the showroom. Additionally, I was responsible for delivering and installing furniture in
+              customers' homes
+
+
+
           ### **2017-2018**
 
           *   Customer Service Representative @ Papa Johns
@@ -252,8 +259,6 @@ sections:
 
               I was invited to return as an apprentice during the summer, during my time there, I
               assisted in setting up and designing a new website for the in-house cafe and gym.
-
-
 
         styles:
           self:
