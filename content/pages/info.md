@@ -190,7 +190,7 @@ sections:
       - type: Label
         label: Japanese
       - type: Label
-        label: Pancakes
+        label: Machine Learning
       - type: Label
         label: C++
       - type: Label
