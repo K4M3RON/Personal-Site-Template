@@ -231,13 +231,13 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          # **Current**
 
           *   Information Technology Support Analyst @ Beaverbrooks
 
-          **2017-2023**
+          ## **2017-2023**
 
-          *   IT Support and Customer Service @ PAD
+          IT Support and Customer Service @ PAD
 
           **2017-2018**
 
