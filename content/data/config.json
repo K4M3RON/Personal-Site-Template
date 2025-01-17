@@ -73,7 +73,8 @@
                 "url": "https://github.com/K4M3RON",
                 "altText": "Netlify templates",
                 "showIcon": true,
-                "icon": "github"
+                "icon": "github",
+                "iconPosition": "left"
             }
         ],
         "contacts": {
