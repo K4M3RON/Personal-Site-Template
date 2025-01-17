@@ -125,7 +125,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://twitter.com/'
+            url: 'https://github.com/K4M3RON'
             altText: GitHub
         styles:
           self:
