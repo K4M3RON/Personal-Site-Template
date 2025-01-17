@@ -290,9 +290,11 @@ sections:
               and
               Cryptography, BB84 protocol.
 
-          **2011**
+          **2011-2016**
 
-          *   my highschool
+          *   Hodgson Academy, Poulton-le-Fylde,
+              9 GCSEs, A in: Computing, and English Literature, B in: Mathematics, Physics,
+              Chemistry, Biology, History, and English Language, C in R.E.
 
         styles:
           self:
