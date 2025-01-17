@@ -122,22 +122,6 @@ sections:
     colors: colors-f
     items:
       - type: FeaturedItem
-        actions:
-          - type: Button
-            label: GitHub
-            altText: ''
-            url: 'https://github.com/K4M3RON'
-            showIcon: false
-            icon: arrowRight
-            iconPosition: right
-            style: primary
-            elementId: ''
-        styles:
-          self:
-            textAlign: left
-        title: test
-        subtitle: ''
-      - type: FeaturedItem
         actions: []
         styles:
           self:
