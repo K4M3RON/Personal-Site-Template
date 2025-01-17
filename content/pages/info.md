@@ -277,11 +277,17 @@ sections:
           *   Keele University,
 
               Bsc: Computer Science, 1st class honours.
-              Dissertation on Machine Learning for Large Social Media Datasets
+              Dissertation on Machine Learning for Large Social Media Datasets.
 
           **2016-2018**
 
-          *   The Blackpool Sixth Form College -
+          *   The Blackpool Sixth Form College,
+
+
+              A-Levels: Computer Science, Physics and Mathematics.
+              Graduated with A-Levels in: Physics, Maths (A/AS) and Computer Science.
+
+
 
           **2011**
 
