@@ -14,7 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: |+
-      ## Motivated computer enjoyer. Cybersecurity learner. Cat owner.
+      Motivated computer enjoyer. 
+      Cybersecurity learner. 
+      Cat owner.
+      ----------
 
     media:
       type: ImageBlock
