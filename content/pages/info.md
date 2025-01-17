@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "Motivated individual seeking a career in the cyber security industry. Skilled in supporting the analysis, assessment, and protection of digital systems. Possessing a technical and analytical mindset, with a strong commitment to working collaboratively as part of a dynamic team. Dedicated to ensuring the security and integrity of critical information. Eager to contribute expertise and actively participate in the advancement of cyber security practices in a thriving environment.\_\n\n\n\n\n"
+    text: "## Motivated individual seeking a career in the cyber security industry. Skilled in supporting the analysis, assessment, and protection of digital systems. Possessing a technical and analytical mindset, with a strong commitment to working collaboratively as part of a dynamic team. Dedicated to ensuring the security and integrity of critical information. Eager to contribute expertise and actively participate in the advancement of cyber security practices in a thriving environment.\_\n\n"
     media:
       type: ImageBlock
       url: /images/Image (37).jpg
