@@ -85,7 +85,7 @@ sections:
         elementId: ''
     spacing: 3
     columns: 5
-    aspectRatio: '16:9'
+    aspectRatio: auto
     showCaption: false
     enableHover: false
     styles:
