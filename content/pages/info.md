@@ -77,7 +77,7 @@ sections:
       - type: ImageBlock
         url: /images/Inspired-PLC-Logo.png
         altText: Inspired Energy logo
-        caption: inspired energy logo
+        caption: Inspired Energy logo
       - type: ImageBlock
         url: /images/logo4.svg
         altText: Logo four
