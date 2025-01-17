@@ -241,11 +241,16 @@ sections:
 
           **2017-2018**
 
-          *   Customer Service Representative @ Papa Johns 
+          *   Customer Service Representative @ Papa Johns
 
           **2015**
 
           *   System Analyst @ Inspired Energy plc.
+          *
+              Initially joining Inspired Energy for work experience while attending Hodgson
+              Academy
+
+
 
         styles:
           self:
