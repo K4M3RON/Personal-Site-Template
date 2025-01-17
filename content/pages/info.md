@@ -235,21 +235,17 @@ sections:
 
           *   Information Technology Support Analyst @ Beaverbrooks
 
-          **2017-202**
+          **2017-2023**
 
-          *   IT Support and Customer Service 
+          *   IT Support and Customer Service @ PAD
+
+          **2017-2018**
+
+          *   Customer Service Representative @ Papa Johns 
 
           **2015**
 
-          *   System Analyst
-
-          **2013**
-
-          *   intern developer at a big company
-
-          **2011**
-
-          *   flipping burgers
+          *   System Analyst @ Inspired Energy plc.
 
         styles:
           self:
