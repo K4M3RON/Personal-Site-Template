@@ -155,7 +155,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: LinkedIn
         altText: ''
         url: 'https://www.linkedin.com/in/cameron-a-b94a55298/'
         showIcon: false
