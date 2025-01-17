@@ -230,16 +230,16 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
-          # **Current**
+        text: |
+          ### **Current**
 
           *   Information Technology Support Analyst @ Beaverbrooks
 
-          ## **2017-2023**
+          ### **2017-2023**
 
-          IT Support and Customer Service @ PAD
+          *   IT Support and Customer Service @ PAD
 
-          **2017-2018**
+          ### **2017-2018**
 
           *   Customer Service Representative @ Papa Johns
 
@@ -249,7 +249,6 @@ sections:
 
               Initially joining Inspired Energy for work experience while attending Hodgson
               Academy
-
         styles:
           self:
             textAlign: left
