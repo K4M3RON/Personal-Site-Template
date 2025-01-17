@@ -149,7 +149,7 @@ sections:
         label: GitHub
         altText: GitHub
         url: '/https://github.com/K4M3RON'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
