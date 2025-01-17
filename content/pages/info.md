@@ -124,15 +124,6 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/K4M3RON'
-            altText: GitHub
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/cameron-a-b94a55298/'
             altText: LinkedIn
