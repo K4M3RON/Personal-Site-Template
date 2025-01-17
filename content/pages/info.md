@@ -152,7 +152,7 @@ sections:
         showIcon: true
         icon: github
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
   - type: DividerSection
     styles:
