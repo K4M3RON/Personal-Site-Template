@@ -76,7 +76,7 @@ sections:
         caption: Inspired Energy logo
       - type: ImageBlock
         url: /images/pad-logo.png
-        altText: Logo two
+        altText: PAD CL logo
         caption: Logo two
       - type: ImageBlock
         url: /images/logo-rhv-retina.png
