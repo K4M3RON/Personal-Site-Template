@@ -64,7 +64,7 @@ sections:
         borderStyle: solid
   - type: MediaGallerySection
     colors: colors-f
-    subtitle: 'I worked with these folks:'
+    subtitle: 'I''ve worked with these people:'
     images:
       - type: ImageBlock
         url: /images/Beaverbrooks-logo.jpg
