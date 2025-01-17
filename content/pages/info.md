@@ -230,7 +230,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |
+        text: |+
           ### **Current**
 
           *   Information Technology Support Analyst @ Beaverbrooks
@@ -243,12 +243,13 @@ sections:
 
           *   Customer Service Representative @ Papa Johns
 
-          **2015**
+          ### **2015**
 
           *   System Analyst @ Inspired Energy plc.
 
               Initially joining Inspired Energy for work experience while attending Hodgson
               Academy
+
         styles:
           self:
             textAlign: left
