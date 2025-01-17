@@ -124,7 +124,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Button
-            label: Learn more
+            label: GitHub
             altText: ''
             url: 'https://github.com/K4M3RON'
             showIcon: false
