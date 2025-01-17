@@ -71,13 +71,13 @@ sections:
         altText: Beaverbrooks logo
         caption: Beaverbrooks logo
       - type: ImageBlock
-        url: /images/Inspired-PLC-Logo.png
-        altText: Inspired Energy logo
-        caption: Inspired Energy logo
-      - type: ImageBlock
         url: /images/pad-logo.png
         altText: PAD CL logo
         caption: PAD CL logo
+      - type: ImageBlock
+        url: /images/Inspired-PLC-Logo.png
+        altText: Inspired Energy logo
+        caption: Inspired Energy logo
       - type: ImageBlock
         url: /images/logo-rhv-retina.png
         altText: Ribby Hall Logo
